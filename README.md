@@ -29,4 +29,4 @@ Session 1:
 * Walk through the CitizenScience.gov GH repo.
 
 Session 2:
-* Add the [18F Laptop Script](https://github.com/18F/laptop)to your gov Mac. Laptop is a script to set up an OS X computer for web development, and to keep it up to date.
+* Add the [18F Laptop Script](https://github.com/18F/laptop) to your gov Mac. Laptop is a script to set up an OS X computer for web development, and to keep it up to date.
