@@ -14,8 +14,9 @@ Some additional suggestions:
 * Feel free to IM/email me between sessions if you get stuck somewhere or need more things to work on. 
 * Try to get coffee/lunch/hangout with someone around the office once a week, even if it's on a different team and also go to local meetups if you have the time. It's good to get out there and meet people and build your network. You'll find that most jobs/opportunities come from people you've met and not from cold job applications to a company.
 
-Other resources to start familiarizing yourself with:
+Other tools to start familiarizing yourself with:
 * Slack
+* Trello
 
 
 
