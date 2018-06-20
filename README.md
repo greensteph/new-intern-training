@@ -2,6 +2,7 @@
 
 ## Getting Started
 Start working through the list below:
+* Familiarize yourself with the [TTS Handbook](https://handbook.18f.gov/).
 * Do the [Basic HTML/HTML5 course & Basis CSS](https://www.freecodecamp.org/) on freeCodeCamp.
 * Read about [Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control).
 * Do the [GitHub 101 training](https://services.github.com/on-demand/) online
